@@ -3,7 +3,7 @@
 This project was developed by **Marta Gamarra**, **Ariana Papantonio**, **Macarena Peña**, **Fiona Sánchez** and **Yolanda Serrano**  as part of the **Data Analytics Bootcamp** at **Adalab**.
 
 The goal of this project was to practice data extraction from multiple public **APIs**, clean and transform the data, design a relational database structure, and analyze music consumption patterns in the digital era.  
-We focused on building ETL processes, creating a database in **MySQL**, and generating insights based on queries about song and artist popularity.
+We focused on building **ETL** processes, creating a database in **MySQL**, and generating insights based on queries about song and artist popularity.
 
 ---
 
