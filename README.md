@@ -1,20 +1,20 @@
-# 🎵 Final Project Module 2 - Music Streaming APIs analysis 
+# 🎵 Final Project Module 2 - Music Streaming analysis 
 
 This project was developed by **Marta Gamarra**, **Ariana Papantonio**, **Macarena Peña**, **Fiona Sánchez** and **Yolanda Serrano**  as part of the **Data Analytics Bootcamp** at **Adalab**.
 
-The goal of this project was to practice data extraction from multiple public APIs, clean and transform the data, design a relational database structure, and analyze music consumption patterns in the digital era.  
+The goal of this project was to practice data extraction from multiple public **APIs**, clean and transform the data, design a relational database structure, and analyze music consumption patterns in the digital era.  
 We focused on building ETL processes, creating a database in **MySQL**, and generating insights based on queries about song and artist popularity.
 
 ---
 
-## ✨ Project Overview
+## 📌 Project Overview
 
 **MusicStream: Analyzing Song Popularity in the Digital Era** is an initiative focused on studying the popularity of songs and albums on the fictional platform _MusicStream_.  
 By leveraging advanced data extraction and analysis techniques, the project aims to answer key questions about music consumption trends in the digital world.
 
 ---
 
-## ✨ Project Objective
+## 🎯 Project Objective
 
 The main goal is to identify the most popular songs and albums on _MusicStream_, using multiple external data sources, such as:
 
@@ -26,7 +26,7 @@ All the extracted data was stored in a relational **MySQL** database, where we p
 
 ---
 
-## ✨ Technologies Used
+## 🛠️ Technologies Used
 
 For the development of this project, we used the following tools and technologies:
 
@@ -38,7 +38,7 @@ For the development of this project, we used the following tools and technologie
 
 ---
 
-## ✨ Project Structure
+## 🔍 Project Structure
 
 The project is organized as follows:
 
@@ -50,7 +50,7 @@ The project is organized as follows:
 
 ---
 
-## ✨ Installation and Execution
+## 🧩 Installation and Execution
 
 1. **Clone the repository**
 
@@ -83,7 +83,7 @@ The project is organized as follows:
 
 ---
 
-## ✨ Analysis Performed
+## 📊 Analysis Performed
 
 Using SQL queries and Python analysis, we were able to:
 
