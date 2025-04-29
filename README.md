@@ -1,4 +1,4 @@
-# 🎵 Final Project Module 2 - Music Streaming analysis 
+# 🎵 Final Project Module 2 - Music Streaming APIs analysis 
 
 This project was developed by **Marta Gamarra**, **Ariana Papantonio**, **Macarena Peña**, **Fiona Sánchez** and **Yolanda Serrano**  as part of the **Data Analytics Bootcamp** at **Adalab**.
 
